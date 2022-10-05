@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pondicherry foods</title>
+</head>
+<body>
+    <section id="top of page">
+    <header>
+    <h1><marquee direction="left"> <img src="download.jpg" width="100" height="100">     PONDIHERRY FOOD ORDER WEB   <img src="images (1).jpg" width="100" height="100"></marquee></h1>
+    <br>
+    </header>
+    </section>
+
+    <section id="hotels">
+        <hr>
+        <h2 align="center">Top most restaurant in Pondicherry</h2>
+        <hr>
+        <br>
+        <br>
+        <h3 align="center">copper kitchen</h3>
+        <table align="center">
+            <tr>
+                <td><figure><img src="c1.jpg" width="150" height="150" title="copper kitchen"><figcaption align="center"><a href="#copper_THALI">THALI</a></figcaption></figure></td>
+                <td><figure><img src="c2.jpg" width="150" height="150" title="copper kitchen"><figcaption align="center"><a href="copper_IDLI">IDLI</a></figcaption></figure></td>
+                <td><figure><img src="c2.jpg" width="150" height="150" title="copper kitchen"><figcaption align="center"><a href="copper_DOSA">DOSA</a></figcaption></figure></td>
+                <td><figure><img src="c4.jpg" width="150" height="150" title="copper kitchen"><figcaption align="center"><a href="copper_UTTHAPAM">UTTHAPAM</a></figcaption></figure></td>
+            </tr>
+        </table>
+        <hr>   
+
+         <h3 align="center">Hotel Kraikal</h3>
+        <table align="center">
+            <tr>
+                <td><figure><img src="a1.jpg" width="150" height="150" title="Hotel karaikal"><figcaption align="center"><a href="#karaikal_VADA">VADA</a></figcaption></figure></td>
+                <td><figure><img src="a2.jpg" width="150" height="150"title="Hotel karaikal"><figcaption align="center"><a href="#karaikal_DOSA">DOSA</a></figcaption></figure></td>
+                <td><figure><img src="a3.jpg" width="150" height="150"title="Hotel karaikal"><figcaption align="center"><a href="#KARAIKAL_IDLI">IDLI</a></figcaption></figure></td>
+                <td><figure><img src="a4.jpg" width="150" height="150"title="Hotel karaikal"><figcaption align="center"><a href="#karaikal_paniyaram">PANIYARAM</a></figcaption></figure></td>
+            </tr>
+        </table>
+        <hr>       
+        <h3 align="center">Food Mubarak</h3>
+        <table align="center">
+            <tr>
+                <td><figure><img src="food m.jpg" width="150" height="150"title="Hotel karaikal"><figcaption align="center"><a href="#FOOD_Parotta">Parotta</a></figcaption></figure></td>
+                <td><figure><img src="f2.jpg" width="150" height="150"title="Hotel karaikal"><figcaption align="center"><a href="#FOOD_NON">NON</a></figcaption></figure></td>
+                <td><figure><img src="f3.jpg" width="150" height="150"title="Hotel karaikal"><figcaption align="center"><a href="#FOOD_Pulao">Pulao</a></figcaption></figure></td>
+                <td><figure><img src="f4.jpg" width="150" height="150"title="Hotel karaikal"><figcaption align="center"><a href="#FOOD_sandwich">Sandwich</a></figcaption></figure></td>
+            </tr>
+        </table>
+        <hr>
+
+        <h3 align="center">A1 food land</h3>
+        <table align="center">
+            <tr>
+                <td><figure><img src="k1.jpg" width="150" height="150"title="A1 FOOD LAND"><figcaption align="center"><a href="#A1_shawarma">Parotta</a></figcaption></figure></td>
+                <td><figure><img src="k2.jpg" width="150" height="150"title="A1 FOOD LAND"><figcaption align="center"><a href="#A1_BBQ">BBQ</a></figcaption></figure></td>
+                <td><figure><img src="k3.jpg" width="150" height="150"title="A1 FOOD LAND"><figcaption align="center"><a href="#A1_GRILL">GRILL</a></figcaption></figure></td>
+                <td><figure><img src="k4.jpg" width="150" height="150"title="A1 FOOD LAND"><figcaption align="center"><a href="#A1_butter">BUTTER CHICKEN</a></figcaption></figure></td>
+            </tr>
+        
+        </table>
+        <hr>
+    </section>
+    <a href="#top of page">BACK TO TOP</a>
+    
+</body>
+</html>
